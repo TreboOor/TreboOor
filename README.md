@@ -7,7 +7,7 @@ Computer Programming Student at Yaşar University | High School Software Dev Gra
 * LinkedIn: [Hasan Can Ölmez](https://www.linkedin.com/in/hasan-can-ölmez-47781a327/ "")
 * Discord: treboorr
 
-## 🤓 My Skills
+## 🛠️ My Skills
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
