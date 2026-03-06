@@ -1,4 +1,4 @@
-## Hi Im Trebor!
+## Hi I'm Trebor!
 
 Computer Programming Student at Yaşar University | High School Software Dev Graduate | Based in Izmir. Focused on building clean code and learning new technologies.
 
