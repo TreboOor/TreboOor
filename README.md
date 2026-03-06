@@ -5,7 +5,8 @@ Computer Programming Student at Yaşar University | High School Software Dev Gra
 ## 📫 Get Contact with me at
 * E-Mail: hasancanolmez5@gmail.com
 * LinkedIn: [Hasan Can Ölmez](https://www.linkedin.com/in/hasan-can-ölmez-47781a327/ "")
-* 
+* Discord: treboorr
+
 ## 🤓 My Skills
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
